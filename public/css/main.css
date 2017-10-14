@@ -1,0 +1,23 @@
+.navBar {
+  display: inline;
+  width: 25%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1%
+}
+
+body {
+  background-color: turquoise;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+a {
+  text-align: center;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+}

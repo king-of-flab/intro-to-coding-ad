@@ -1,0 +1,22 @@
+{
+  "name": "intro-to-coding-ad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^2.0.0",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "mongoose": "^4.12.1",
+    "nodemon": "^1.12.1"
+  }
+}
