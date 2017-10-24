@@ -22,3 +22,11 @@ a {
   text-decoration: none;
   color: black;
 }
+
+.container-about {
+  width: 80%
+}
+
+.card-img-top {
+  height: 55%
+}
